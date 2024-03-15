@@ -1,0 +1,46 @@
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\bin\Debug\mscorlib.dll
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\bin\Debug\System.Net.Http.dll
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\bin\Debug\System.Net.Http.xml
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\bin\Debug\normidna.nlp
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\bin\Debug\normnfc.nlp
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\bin\Debug\normnfd.nlp
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\bin\Debug\normnfkc.nlp
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\bin\Debug\normnfkd.nlp
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\obj\Debug\Tiny_Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\obj\Debug\JASON_Compiler.Form1.resources
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\obj\Debug\JASON_Compiler.Form2.resources
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\obj\Debug\Tiny_Compiler.csproj.GenerateResource.Cache
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - Copy\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\bin\Debug\mscorlib.dll
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\bin\Debug\System.Net.Http.dll
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\bin\Debug\System.Net.Http.xml
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\bin\Debug\normidna.nlp
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\bin\Debug\normnfc.nlp
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\bin\Debug\normnfd.nlp
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\bin\Debug\normnfkc.nlp
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\bin\Debug\normnfkd.nlp
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\obj\Debug\Tiny_Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\obj\Debug\JASON_Compiler.Form1.resources
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\obj\Debug\JASON_Compiler.Form2.resources
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\Users\Mario-Pc\Dropbox\PC\Desktop\Parser-Template-final - parser\JASON_Compiler\obj\Debug\Tiny_Compiler.csproj.GenerateResource.Cache
+E:\Collage projects\compiler\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+E:\Collage projects\compiler\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+E:\Collage projects\compiler\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+E:\Collage projects\compiler\JASON_Compiler\obj\Debug\Tiny_Compiler.csproj.AssemblyReference.cache
+E:\Collage projects\compiler\JASON_Compiler\obj\Debug\JASON_Compiler.Form1.resources
+E:\Collage projects\compiler\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+E:\Collage projects\compiler\JASON_Compiler\obj\Debug\Tiny_Compiler.csproj.GenerateResource.cache
+E:\Collage projects\compiler\JASON_Compiler\obj\Debug\Tiny_Compiler.csproj.CoreCompileInputs.cache
+E:\Collage projects\compiler\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+E:\Collage projects\compiler\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
